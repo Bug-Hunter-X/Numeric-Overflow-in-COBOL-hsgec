@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in COBOL programs: numeric overflow.  The program attempts to increment a numeric field beyond its maximum value, resulting in unexpected behavior.  The solution shows how to handle potential overflow situations.
